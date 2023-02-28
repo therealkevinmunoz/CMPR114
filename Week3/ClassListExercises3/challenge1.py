@@ -3,7 +3,7 @@ def total():
 
     sum = 0;
 
-    file = open('challenge1.txt', 'w');
+    file = open('Week3/ClassListExercises3/challenge1.txt', 'w');
 
     for value in numbers:
         file.write(str(value) + '\n');

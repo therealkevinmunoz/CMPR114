@@ -7,7 +7,7 @@ average_rainfall = 0;
 lowest_rainfall = 0;
 highest_rainfall = 0;
 
-file = open('challenge3rainfall.txt', 'w');
+file = open('Week3/ClassListExercises3/challenge3rainfall.txt', 'w');
 
 for month in range(TOTAL_MONTHS):
     monthly_rainfall = float(input(f'Enter the rainfall for {MONTH[month]} '));

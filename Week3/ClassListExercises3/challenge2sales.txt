@@ -1,0 +1,8 @@
+Monday: $100.0 
+Tuesday: $200.0 
+Wednesday: $300.0 
+Thursday: $400.0 
+Friday: $500.0 
+Saturday: $600.0 
+Sunday: $700.0 
+Your total sales are $2800.0

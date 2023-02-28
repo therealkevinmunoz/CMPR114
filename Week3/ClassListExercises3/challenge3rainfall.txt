@@ -1,0 +1,16 @@
+January: 100.0 inches
+February: 23.0 inches
+March: 34.0 inches
+April: 54.0 inches
+May: 786.0 inches
+June: 87.0 inches
+July: 34.0 inches
+August: 23.0 inches
+September: 67.0 inches
+October: 87.0 inches
+November: 34.0 inches
+December: 23.0 inches
+Your total rainfall is 1352.0 inches
+Your average rainfall is 112.66666666666667 inches
+Your highest rainfall is 786.0 inches
+Your lowest rainfall is 23.0 inches
