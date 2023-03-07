@@ -1,7 +1,10 @@
-cities = ("SF", "LA", "SA")
+test_tup = (15, 20, 123, 47, 26, 81)
 
-city1, city2, city3 = cities
+sum = 0
 
-print(city1)
-print(city2)
-print(city3)
+loop_index = 0
+while loop_index < len(test_tup):
+    sum += test_tup[loop_index]
+    loop_index += 1
+
+print(f"Sum: {sum}")
