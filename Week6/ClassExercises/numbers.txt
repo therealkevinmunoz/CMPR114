@@ -1,0 +1,5 @@
+The 1st number is 5
+The 2nd number is 10
+The 3rd number is 15
+The total number is 30
+The average is 10.0
