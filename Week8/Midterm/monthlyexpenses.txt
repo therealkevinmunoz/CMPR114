@@ -1,0 +1,6 @@
+Monthly Expenses
+Rent: $1500
+Gas: $50
+Food: $240
+Clothing: $200
+Car: $230
