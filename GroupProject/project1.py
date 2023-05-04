@@ -4,7 +4,7 @@ import openai
 #Class object is used to hold all methods related to application
 class App:
     def __init__(self):
-        openai.api_key = "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"
+        openai.api_key = os.getenv("OPENAI_API_KEY")
         #Dictionary is used to store items from conversation
         self.__chat_dictionary = {}
 
