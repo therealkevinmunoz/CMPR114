@@ -60,6 +60,9 @@ class TestAvg:
         self.test1_frame.pack()
         self.test2_frame.pack()
         self.test3_frame.pack()
+        self.test4_frame.pack()
+        self.test5_frame.pack()
+        self.sum_frame.pack()
         self.avg_frame.pack()
         self.button_frame.pack()
 
